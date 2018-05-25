@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Machine Learning
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/apis.md
 specificationVersion: "0.14"
 apis:
@@ -28,7 +28,7 @@ apis:
   tags: Web Services
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-put-openapi.md
 - name: Azure Machine Learning API Web Services Get
   x-api-slug: azure-machine-learning-api
   description: Gets the Web Service Definition as specified by a subscription, resource
@@ -40,9 +40,9 @@ apis:
   tags: Web Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-get-openapi.md
 - name: Azure Machine Learning API Web Services Patch
   x-api-slug: azure-machine-learning-api
   description: Modifies an existing web service resource. The PATCH API call is an
@@ -54,7 +54,7 @@ apis:
   tags: Web Services
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-patch-openapi.md
 - name: Azure Machine Learning API Web Services Remove
   x-api-slug: azure-machine-learning-api
   description: Deletes the specified web service.
@@ -64,9 +64,9 @@ apis:
   tags: Web Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicename-delete-openapi.md
 - name: Azure Machine Learning API Web Services Create Regional Properties
   x-api-slug: azure-machine-learning-api
   description: Creates an encrypted credentials parameter blob for the specified region.
@@ -80,9 +80,9 @@ apis:
   tags: Web Services Regional Properties
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicenamecreateregionalblob-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicenamecreateregionalblob-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicenamecreateregionalblob-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicenamecreateregionalblob-post-openapi.md
 - name: Azure Machine Learning API Web Services List Keys
   x-api-slug: azure-machine-learning-api
   description: Gets the access keys for the specified web service.
@@ -92,9 +92,9 @@ apis:
   tags: Web Services Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicenamelistkeys-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicenamelistkeys-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebserviceswebservicenamelistkeys-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebserviceswebservicenamelistkeys-get-openapi.md
 - name: Azure Machine Learning API Web Services List By Resource Group
   x-api-slug: azure-machine-learning-api
   description: Gets the web services in the specified resource group.
@@ -104,9 +104,9 @@ apis:
   tags: Web Services Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebservices-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebservices-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftmachinelearningwebservices-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-machinelearningwebservices-get-openapi.md
 - name: Azure Machine Learning API Web Services List By Subscription Id
   x-api-slug: azure-machine-learning-api
   description: Gets the web services in the specified subscription.
@@ -116,9 +116,9 @@ apis:
   tags: Web Services Subscription Id
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidprovidersmicrosoftmachinelearningwebservices-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidprovidersmicrosoft-machinelearningwebservices-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidprovidersmicrosoftmachinelearningwebservices-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-machine-learning/master/_listings/azure-machine-learning/subscriptionssubscriptionidprovidersmicrosoft-machinelearningwebservices-get-openapi.md
 - name: Azure Machine Learning API
   x-api-slug: azure-machine-learning-api
   description: Azure Machine Learning lets you easily design, test, operationalize,

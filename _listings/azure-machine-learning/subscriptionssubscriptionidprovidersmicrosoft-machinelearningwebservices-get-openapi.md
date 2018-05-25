@@ -1,10 +1,10 @@
 ---
 swagger: "2.0"
 x-collection-name: Azure Machine Learning
-x-complete: 1
+x-complete: 0
 info:
-  title: Azure ML Web Services Management Client
-  description: these-apis-allow-end-users-to-operate-on-azure-machine-learning-web-services-resources--they-support-the-following-operationsullicreate-or-update-a-web-serviceliliget-a-web-servicelilipatch-a-web-servicelilidelete-a-web-serviceliliget-all-web-services-in-a-resource-group-liliget-all-web-services-in-a-subscriptionliliget-web-services-keysliul
+  title: Azure Machine Learning API Web Services List By Subscription Id
+  description: Gets the web services in the specified subscription.
   version: 1.0.0
 host: management.azure.com
 basePath: /
@@ -159,4 +159,17 @@ paths:
           description: OK
       tags:
       - Web Services Subscription Id
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---
