@@ -36,6 +36,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Web Services
     get:
       summary: Web Services Get
@@ -55,6 +56,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Web Services
     patch:
       summary: Web Services Patch
@@ -75,6 +77,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Web Services
     delete:
       summary: Web Services Remove
@@ -88,6 +91,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Web Services
 x-streamrank:
   polling_total_time_average: 0

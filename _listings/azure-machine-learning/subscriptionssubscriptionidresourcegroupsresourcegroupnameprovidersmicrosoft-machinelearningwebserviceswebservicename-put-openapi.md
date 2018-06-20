@@ -39,6 +39,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Web Services
 x-streamrank:
   polling_total_time_average: 0
